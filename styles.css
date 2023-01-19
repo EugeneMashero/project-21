@@ -81,7 +81,6 @@ section{
   color:var(--main-white);
 }
 .wrapper{
-  border:1px solid black;
   display:grid;
   grid-template-columns: repeat(auto-fit, 300px);
   grid-template-rows: 300px;
